@@ -1,0 +1,9 @@
+# AMO case — зависимости проекта.
+# Установить на новой машине:  py -3.14 -m pip install -r requirements.txt
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.11.0
+seaborn==0.13.2
+scipy==1.18.0
+statsmodels==0.14.6
+ipykernel==7.3.0
