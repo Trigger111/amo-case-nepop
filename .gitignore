@@ -13,3 +13,7 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local assistant notes and task drafts (kept out of the repository)
+CLAUDE.md
+conclusions_task1.md
